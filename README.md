@@ -36,7 +36,7 @@ Covers the headline comparison for a solo freelancer with no employees: НПД t
 
 Does **not** cover regional УСН rate discounts, employees, УСН "Доходы минус расходы", or a definitive legal answer on crypto income under НПД — that's a genuinely unsettled grey area under 418-ФЗ (see the linked article below). This is a planning estimate, not tax or legal advice — rates and thresholds change yearly, verify current figures before deciding.
 
-There's also a free [browser version](https://kleogeos.github.io/freelancer-tools/kalkulyator-samozanyatyy-ili-ip.html) with the same math, a full [written breakdown](https://kleogeos.github.io/freelancer-tools/samozanyatyy-ili-ip-dlya-frilansera-2026.html) of НПД vs ИП for freelancers, a deeper dive on [getting paid in USDT as a самозанятый](https://kleogeos.github.io/freelancer-tools/mozhno-li-samozanyatomu-poluchat-oplatu-v-usdt.html), and more free tools (invoicing, rate calculator, contract checklist) at [Freelancer Toolbox](https://kleogeos.github.io/freelancer-tools/).
+There's also a free [browser version](https://kleogeos.github.io/freelancer-tools/kalkulyator-samozanyatyy-ili-ip.html) with the same math, a [Node.js/npx port](https://github.com/kleogeos/freelance-ru-tax-js) if you'd rather not touch Python, a full [written breakdown](https://kleogeos.github.io/freelancer-tools/samozanyatyy-ili-ip-dlya-frilansera-2026.html) of НПД vs ИП for freelancers, a deeper dive on [getting paid in USDT as a самозанятый](https://kleogeos.github.io/freelancer-tools/mozhno-li-samozanyatomu-poluchat-oplatu-v-usdt.html), and more free tools (invoicing, rate calculator, contract checklist) at [Freelancer Toolbox](https://kleogeos.github.io/freelancer-tools/).
 
 ### Tests
 
